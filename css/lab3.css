@@ -42,3 +42,21 @@ td
 	text-align: center;
 
 }
+
+.skip-link 
+{
+	background: lightyellow;
+	color:black;
+	font-weight: 700;
+	padding: 4px;
+	position:absolute;
+	transform: translateY(-200%);
+}
+.skip-link 
+{
+	transform: translateY(0%)
+}
+.skip-link
+{
+	transition: transform 0.3s;
+}
