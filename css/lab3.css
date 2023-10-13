@@ -52,10 +52,12 @@ td
 	position:absolute;
 	transform: translateY(-200%);
 }
+
 .skip-link 
 {
 	transform: translateY(0%)
 }
+
 .skip-link
 {
 	transition: transform 0.3s;
